@@ -1,0 +1,3 @@
+gin -all -i run main.go  --run program
+
+export MY_APP_PORT=400 --set env
